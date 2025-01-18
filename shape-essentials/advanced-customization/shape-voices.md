@@ -79,7 +79,7 @@ The usual go to for voice samples are:
 
 * clear audible voices
 * a wide range of vowels and syllables
-* as long as possible without going over 10MB in size
+* as long as possible without going over 4MB in size
 * if you want an accent: make sure it’s noticeable and clear
 * and gender matters, a masculine voice will be vastly different to a feminine or androgynous voice
 * be careful with interjections! They can modify how some things are pronounced
