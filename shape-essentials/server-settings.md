@@ -69,4 +69,16 @@ Whenever a pre-set trigger word is mentioned in the server, your shape will gene
 
 ***
 
+## Word Block List
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-01-20 154954.png" alt=""><figcaption></figcaption></figure>
+
+Enter offensive or annoying words you do not want your Shape to ever say inside your sever or you want your Shape to always ignore if ever said to them.
+
+## White List / Black List a Category
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-01-20 154941.png" alt=""><figcaption></figcaption></figure>
+
+Instead of simply choosing channels you now have the option to choose categories for your sever. This way it's easier to keep Shapes out of or get them to stay inside a gallery/tickets/threads will fewer clicks!
+
 Use these features to make your server more interactive, lively, and welcoming! If you run into issues or need assistance, feel free to reach out in our [Discord server](https://discord.gg/shapes).
