@@ -31,7 +31,9 @@ Presets determine how your shape interacts with users. They are the foundation o
 
 ### **Generation**
 
-Select the AI model (LLM) your shape will use for communication.
+In this section, you can select the main AI Model your shape uses for its responses and its Fallback AI Model which your shape use when it fails to generate a response using your main AI Model.
+
+<figure><img src="../../../.gitbook/assets/Fuji_2025-01-22_09-55-59.png" alt=""><figcaption></figcaption></figure>
 
 * [Learn more about AI models](ai-engine-models.md)
 
