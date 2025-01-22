@@ -1,5 +1,5 @@
 ---
-description: Easily recreate your existing shapes with shape duplication featur
+description: Easily recreate your existing shapes with shape duplication feature.
 ---
 
 # Shape Duplication
